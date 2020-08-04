@@ -1,1 +1,1 @@
-[{"type": "GAME_PATCH", "action": "0", "threads": null}, {"type": "GAME_PATCH", "action": "1012002", "threads": null}, {"type": "WGET", "action": "https://download.aimc.vip//tpdl-client-download/game_pack_2020-08-04T15-28-30.668172.tar.zst", "threads": 384}]
+[{"type": "GAME_PATCH", "action": "0", "threads": 8}, {"type": "GAME_PATCH", "action": "1012002", "threads": 8}, {"type": "WGET", "action": "https://download.aimc.vip//tpdl-client-download/game_pack_2020-08-04T16-44-00.682514.tar.zst", "threads": 384}]
