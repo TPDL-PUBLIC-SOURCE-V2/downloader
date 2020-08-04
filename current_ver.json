@@ -1,9 +1,9 @@
 {
     "name": "跳票大陆客户端",
     "dlc": "",
-    "base": "0.01",
+    "base": "0.1",
     "build": 0,
-    "last_update": 1596531231.499824,
+    "last_update": 1596531363.716071,
     "title": "{name} {base}.{build}",
-    "gamepack": "/tpdl-client-download/game_pack_2020-08-04T16-53-52.716142.tar.zst"
+    "gamepack": "game_pack_2020-08-04T16-56-04.905083.tar.zst"
 }
