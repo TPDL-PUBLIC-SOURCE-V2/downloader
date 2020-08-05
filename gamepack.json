@@ -1,1 +1,1 @@
-[{"type": "GAME_PATCH", "action": "0", "threads": 8}, {"type": "GAME_PATCH", "action": "1012002", "threads": 8}, {"type": "WGET", "action": "https://download.aimc.vip/game_pack_2020-08-05T00-46-17.484568.tar.zst", "threads": 384}]
+[{"type": "GAME_PATCH", "action": "0", "threads": 8}, {"type": "GAME_PATCH", "action": "1012002", "threads": 8}, {"type": "WGET", "action": "https://download.aimc.vip/game_pack_2020-08-05T17-34-25.976715.tar.zst", "threads": 384}]
