@@ -2,8 +2,8 @@
     "name": "跳票大陆客户端",
     "dlc": "",
     "base": "0.1",
-    "build": 1,
-    "last_update": 1596620064.156747,
+    "build": 2,
+    "last_update": 1597470826.885813,
     "title": "{name} {base}.{build}",
-    "gamepack": "game_pack_2020-08-05T17-34-25.976715.tar.zst"
+    "gamepack": "game_pack_2020-08-15T13-53-49.775056.tar.zst"
 }
